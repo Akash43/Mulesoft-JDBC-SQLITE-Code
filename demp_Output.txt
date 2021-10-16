@@ -1,0 +1,8 @@
+
+Name                Actor            Actrees          Director         Year_of_Release
+------------------  ---------------  ---------------  ---------------  ---------------
+Sholay              Amitabh  Bachan  Hema malini      Ramesh Sippy     1975
+Satya               Manoj Bajapayee  Umila Matondkar  Ram Gopal        1998
+3Idiots             Amir Khan        Kareen Kapoor    Rajkumar Hirani  2009
+Jab we Met          Shaid Kapoor     Kareen Kapoor    Imtiaz Ali       2007
+Thugs of Hindostan  Amitabh Bachan   Katrina Kaif     Vijay Kirshna    2018
