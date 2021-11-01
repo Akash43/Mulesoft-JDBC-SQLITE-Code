@@ -1,1 +1,1 @@
-# Mulesoft-JDBC-SQLITE-Code
+# Sample-JDBC-SQLITE-Code
